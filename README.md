@@ -92,7 +92,7 @@ src
 **Project Created By:** Sanchita Koley  
 **Education:** B.Tech CSE  
 **Tech Stack:** Java | Spring Boot | MySQL | Cloud Deployment  
-**LinkedIn:** [Sanchita Koley Profile](https://www.linkedin.com/in/sanchita-koley-a43860366/)  
+**LinkedIn:**[https://www.linkedin.com/in/sanchita-koley-a43860366/](https://www.linkedin.com/in/sanchita-koley-a43860366/)  
 
 Copyright © 2026 Sanchita Koley. All rights reserved.  
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
