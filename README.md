@@ -85,9 +85,14 @@ src
 └── util
 ---
 
+---
 
+## 👤 Author & Copyright
 
-👤 Author
-Sanchita Koley
-B.Tech CSE Student
-Java | Spring Boot | MySQL | Cloud Deployment
+**Project Created By:** Sanchita Koley  
+**Education:** B.Tech CSE  
+**Tech Stack:** Java | Spring Boot | MySQL | Cloud Deployment  
+**LinkedIn:** [Sanchita Koley Profile](https://www.linkedin.com/in/sanchita-koley-a43860366/)  
+
+Copyright © 2026 Sanchita Koley. All rights reserved.  
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
