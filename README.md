@@ -2,7 +2,7 @@
 
 A full-featured E-Commerce REST API built using **Spring Boot**, **Spring Security**, **JWT Authentication**, and **MySQL**. It includes comprehensive unit testing with **JUnit/Mockito**, is fully containerized with **Docker**, and deployed live on **Render** and **Railway** using **Aiven Cloud MySQL**.
 
-📄 **Swagger API Documentation /Render:** [https://dnexa.onrender.com/swagger-ui.html](https://dnexa.onrender.com/swagger-ui.html)
+📄 **Live API Documentation (Swagger UI):** [https://dnexa.onrender.com/swagger-ui.html](https://dnexa.onrender.com/swagger-ui.html)
 
 
 ---
